@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Nithya P Nair, Siddharth Suvarna",
+            "title": "iPhone 16 Pro Models to Feature Stacked Rear Camera Sensor Design: Ming-Chi Kuo | Technology News - Gadgets 360",
+            "description": "iPhone 15 launch is nearing and now rumour mills are talking about iPhone 16. According to known analysts Ming-Chi Kuo, Apple would adopt a stacked CIS design in iPhone 16 Pro and iPhone 16 Pro Max models. With Sony’s tight high-end CIS capacity, Chinese manu…",
+            "url": "https://www.gadgets360.com/mobiles/news/iphone-16-pro-max-camera-stacked-sensor-design-specifications-ming-chi-kuo-4276601",
+            "urlToImage": "https://i.gadgets360cdn.com/large/iphone_14_pro_gold_1683696510783.jpg",
+            "publishedAt": "2023-08-07T11:49:09Z",
+            "content": "iPhone 15 series hasn't even launched yet, but we're already hearing multiple rumours about its successor iPhone 16 series. Next year's high-end models are expected to feature a new rear camera senso… [+2712 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Rahul Naskar",
+            "title": "Apple starts testing M3 Mac Mini ahead of rumored October hardware launch - XDA Developers",
+            "description": "Apple has reportedly started testing the next-generation Mac Mini with M3 SoC, but it may not launch this year.",
+            "url": "https://www.xda-developers.com/apple-testing-m3-mac-mini/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/04/macminim2.png",
+            "publishedAt": "2023-08-07T10:29:00Z",
+            "content": "Key Takeaways\r\n<ul><li> Apple is testing a new Mac Mini model with the yet-to-be-launched M3 chip, which is expected to have similar core numbers but improved performance compared to its predecessor.… [+2255 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Standard"
+            },
+            "author": "BS Web Team",
+            "title": "Apple Days Sale: Vijay Sales announces offers on iPhone 14, iPad, MacBook - Business Standard",
+            "description": "Apple Days Sale: Customers can avail of offers on several Apple products, including  iPhone 14, iPad and Macbook Pro",
+            "url": "https://www.business-standard.com/technology/tech-news/apple-days-sale-vijay-sales-announces-offers-on-iphone-14-ipad-macbook-123080700332_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-08/07/full/1691398017-4311.jpg",
+            "publishedAt": "2023-08-07T08:59:04Z",
+            "content": "Customers can avail of offers on several Apple products, including iPhone 14, iPad and Macbook Pro\r\nImage:Vijay Sales is offering discounts on Apple products\r\nBS Web TeamNew Delhi\r\nElectronics retail… [+3691 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Analytics India Magazine"
+            },
+            "author": "Vandana Nair",
+            "title": "7 Transformative Accessibility Tech Solutions - Analytics India Magazine",
+            "description": "Big tech companies such as Google, Microsoft and Apple have all invested in creating products and services that assist the visually and hearing impaired",
+            "url": "https://analyticsindiamag.com/7-transformative-accessibility-tech-solutions/",
+            "urlToImage": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/08/7-Transformative-Accessibility-Tech-Solutions.jpg",
+            "publishedAt": "2023-08-07T06:50:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India Today"
+            },
+            "author": "Divyanshi Sharma",
+            "title": "Tim Cook reveals Apple has been working on generative AI for years, says they will continue investing - India Today",
+            "description": "Apple CEO Tim Cook, during an interview with Reuters, said that the company has been investing in generative AI for a long time and the same is showing up in their R&D spending as well.",
+            "url": "https://www.indiatoday.in/technology/news/story/apple-coming-up-with-chatgpt-and-bard-rival-company-starts-hiring-for-generative-ai-roles-2417332-2023-08-07",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/apple-ceo-tim-cook-071706-16x9.jpg?VersionId=Yne47blT7fZYLr4_xTTfJKkG3twFbU3j",
+            "publishedAt": "2023-08-07T06:19:38Z",
+            "content": "By Divyanshi Sharma: Back in 2011, Apple wowed us all with Siri, a virtual assistant on our phones. It could do things like play music, tell jokes, and say who's calling - something that we had never… [+2378 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Tech Desk",
+            "title": "Everything we know about Apple’s upcoming iPhone 15 event - The Indian Express",
+            "description": "Apple is expected to announce new iPhone models, as it has every September since 2012.",
+            "url": "https://indianexpress.com/article/technology/everything-we-know-about-apples-upcoming-iphone-15-event-2023-8880325/",
+            "urlToImage": "https://images.indianexpress.com/2023/08/iphone-15-pro-renders.jpg",
+            "publishedAt": "2023-08-07T06:03:15Z",
+            "content": "We are almost days away from Apples splashy iPhone event. With rumours of the iPhone event taking place on September 13, and as is the case every year, predictions and leaks have been steady in the w… [+4466 chars]"
+        }
+    ]
+}
